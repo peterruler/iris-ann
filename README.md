@@ -6,6 +6,9 @@
 
 ## Login with google to render.com account
 - `https://dashboard.render.com`
+- better login via github.com so you can deploy by using this (e.g. forked) repo
+- for deployment its easiest to use a github repository
+- choose the free plan with 512 GB and 0.1 CPU
 
 ## Install Miniconda if locally run
 - https://docs.anaconda.com/free/miniconda
