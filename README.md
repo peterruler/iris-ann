@@ -2,6 +2,7 @@
 
 - https://www.udemy.com/course/deep-learning-tensorflow chapter 20 Deployment
 - demo : [https://iris-ann.onrender.com](https://iris-ann.onrender.com)
+- Please wait for approx. 2 min. -> till the queued webservice (due to long inactivity) is restarted
 
 ## Login with google to render.com account
 - `https://dashboard.render.com`
