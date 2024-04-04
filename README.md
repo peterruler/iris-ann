@@ -6,7 +6,7 @@
 ## Login with google to render.com account
 - `https://dashboard.render.com`
 
-## Install Miniconda
+## Install Miniconda if locally run
 - https://docs.anaconda.com/free/miniconda
 
 ## Windows, Linux or MacOS x64 Intel (IMPORTANT: No M1 Mac supported with python version 3.7.0)
