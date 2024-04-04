@@ -1,7 +1,7 @@
 # Deployment of flask app with iris ki (ann)
 
 - https://www.udemy.com/course/deep-learning-tensorflow chapter 20 Deployment
-- demo : [https://iris-ann.onrender.com](https://iri-ann.onrender.com)
+- demo : [https://iris-ann.onrender.com](https://iris-ann.onrender.com)
 
 ## Login with google to render.com account
 - `https://dashboard.render.com`
