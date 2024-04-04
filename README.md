@@ -54,3 +54,6 @@ werkzeug==2.0.3
  - dont use: `gunicorn --timeout 600 --bind 0.0.0.0:$PORT app:app` # timeout error
  - instead use:
 - `python app.py` #also in render backend configuration
+
+## generation of safed model and safed scaler see:
+- [https://github.com/peterruler/iris-ann-ipynb](https://github.com/peterruler/iris-ann-ipynb)
