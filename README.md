@@ -59,5 +59,5 @@ werkzeug==2.0.3
  - instead use:
 - `python app.py` #also in render backend configuration
 
-## generation of safed model and safed scaler see:
+## generation of saved model and saved scaler see:
 - [https://github.com/peterruler/iris-ann-ipynb](https://github.com/peterruler/iris-ann-ipynb)
