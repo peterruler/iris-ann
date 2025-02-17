@@ -1,8 +1,34 @@
-<h1>Thank You. Here is the Information You Gave:</h1>
-<ul>
-	<li>Sepal Length: {{session['sep_len']}}</li>
-	<li>Sepal Width:  {{session['sep_wid']}}</li>
-	<li>Petal Length: {{session['pet_len']}}</li>
-	<li>Petal Width:  {{session['pet_wid']}}</li>
-</ul>
-<h2>Your Predicted Flower Class is: {{results}}</h2>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prediction Result</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Thank You. Here is the Information You Gave:</h1>
+    <ul>
+        <li>Sepal Length: {{ session['sep_len'] }}</li>
+        <li>Sepal Width:  {{ session['sep_wid'] }}</li>
+        <li>Petal Length: {{ session['pet_len'] }}</li>
+        <li>Petal Width:  {{ session['pet_wid'] }}</li>
+    </ul>
+    <h2>Your Predicted Flower Class is: {{ results }}</h2>
+</body>
+</html>
